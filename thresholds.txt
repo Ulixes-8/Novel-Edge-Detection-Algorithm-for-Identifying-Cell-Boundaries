@@ -1,0 +1,11 @@
+{'Sobel': {'Average F1 Score': 0.5749733026563373, 'Average Precision': 0.4866650796915395, 'Average Recall': 0.7765993856393791, 'Average MSE': 0.10297393798828125}, 
+
+'Roberts': {'Average F1 Score': 0.5587727234581614, 'Average Precision': 0.4699838282742012, 'Average Recall': 0.7548150570526456, 'Average MSE': 0.10570170084635418}, 
+
+'LoG': {'Average F1 Score': 0.5771905413493849, 'Average Precision': 0.5792652299978085, 'Average Recall': 0.591334988796839, 'Average MSE': 0.07930272420247396}, 
+
+'FoG': {'Average F1 Score': 0.5793640220990989, 'Average Precision': 0.5055531080509856, 'Average Recall': 0.7478698160849809, 'Average MSE': 0.09520111083984374}, 
+
+'Laplacian': {'Average F1 Score': 0.45599958024687653, 'Average Precision': 0.3351480881851139, 'Average Recall': 0.7141846213136982, 'Average MSE': 0.15735855102539062}, 
+
+'OSFoG+CG': {'Average F1 Score': 0.9356223833941922, 'Average Precision': 0.9616394888290921, 'Average Recall': 0.9112402562449592, 'Average MSE': 0.011621602376302083}}
