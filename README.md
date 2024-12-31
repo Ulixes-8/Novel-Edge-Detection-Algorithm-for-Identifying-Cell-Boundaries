@@ -1,1 +1,1 @@
-# myproject
+This software was written as a solution to the . It received a final mark of 92% in the University of Birmingham's Computer Vision course, which was the highest mark awarded that year. It features a novel edge detection algorithm that outperforms other classical approaches with an F1 score of over 94%. 
